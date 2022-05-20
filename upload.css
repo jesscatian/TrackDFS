@@ -1,0 +1,33 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(#02010A, #571F7D);
+}
+
+p {
+    color: white;
+}
+
+.upload {
+    margin: auto;
+    margin-top: 15%;
+    width: 50%;
+    height: 50%;
+    border: 3px solid rgb(255, 255, 255);
+    border-style: dashed;
+    background-color: #020217;
+    border-radius: 25px;
+    color: white;
+}
+
+#txtFileUpload {
+    padding-top: 20%;
+    color: white;
+}
+
+.navbar {
+    background-color: #323232;
+}
